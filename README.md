@@ -17,12 +17,15 @@
 #### ***Methodology***
 
 *- Data cleaning and preprocessing to ensure accuracy and consistency.*
+
 *- Exploratory data analysis to identify trends, patterns, and outliers.*
+
 *- Data visualization to effectively communicate insights and findings.*
 
 #### ***Project Links***
 
 *- Kaggle Project: [Super Store Data Analysis](https://www.kaggle.com/code/jeyasrisenthil/super-store-analysis)*
+
 *- GitHub Repository: [SuperStore-DataAnalysis-IBM-AICTE](https://github.com/jeyasri-senthil/SuperStore-DataAnalysis-IBM-AICTE)*
 
 #### ***Conclusion***
